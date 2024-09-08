@@ -29,4 +29,16 @@ A quick brown fox jumps over the lazy **dog**.
 **Umais Nasir**
 <img src = "umais.jpg.jpg" width="200" height="200">
 
+# Symbols
+
+* &copy;
+* &reg;
+* &uarr;
+* &larr;
+* &rarr;
+* &darr;
+* &euro;
+* &trade;
+* &#176;
+* &#960;
 
