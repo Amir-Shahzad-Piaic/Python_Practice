@@ -41,4 +41,8 @@ A quick brown fox jumps over the lazy **dog**.
 * &trade;
 * &#176;
 * &#960;
+----
+# <u>Underline<u>  
 
+
+<u>This text will be underlined.<u>
